@@ -12,3 +12,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | # | Problem | Difficulty | Approach | Solution |
 |---|---------|-----------|----------|----------|
 | 1 | Two Sum | Easy | Hash map, one pass — O(n) | [python/0001-two-sum](python/0001-two-sum) |
+| 9 | Palindrome Number | Easy | Reverse half the digits — O(log x) | [python/0009-palindrome-number](python/0009-palindrome-number) |

@@ -10,3 +10,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | # | Problem | Difficulty | Folder |
 |---|---------|-----------|--------|
 | 1 | Two Sum | Easy | [0001-two-sum](0001-two-sum) |
+| 9 | Palindrome Number | Easy | [0009-palindrome-number](0009-palindrome-number) |
