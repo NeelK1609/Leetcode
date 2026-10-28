@@ -11,3 +11,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 |---|---------|-----------|--------|
 | 1 | Two Sum | Easy | [0001-two-sum](0001-two-sum) |
 | 9 | Palindrome Number | Easy | [0009-palindrome-number](0009-palindrome-number) |
+| 13 | Roman to Integer | Easy | [0013-roman-to-integer](0013-roman-to-integer) |
