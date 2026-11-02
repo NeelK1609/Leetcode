@@ -14,3 +14,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 13 | Roman to Integer | Easy | [0013-roman-to-integer](0013-roman-to-integer) |
 | 14 | Longest Common Prefix | Easy | [0014-longest-common-prefix](0014-longest-common-prefix) |
 | 20 | Valid Parentheses | Easy | [0020-valid-parentheses](0020-valid-parentheses) |
+| 21 | Merge Two Sorted Lists | Easy | [0021-merge-two-sorted-lists](0021-merge-two-sorted-lists) |
