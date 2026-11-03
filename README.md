@@ -17,3 +17,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 14 | Longest Common Prefix | Easy | Shrink first string until all share it — O(S) | [python/0014-longest-common-prefix](python/0014-longest-common-prefix) |
 | 20 | Valid Parentheses | Easy | Stack matching — O(n) | [python/0020-valid-parentheses](python/0020-valid-parentheses) |
 | 21 | Merge Two Sorted Lists | Easy | Dummy node, merge in one pass — O(m + n) | [python/0021-merge-two-sorted-lists](python/0021-merge-two-sorted-lists) |
+| 26 | Remove Duplicates from Sorted Array | Easy | Two pointers, in-place — O(n) | [python/0026-remove-duplicates-from-sorted-array](python/0026-remove-duplicates-from-sorted-array) |
