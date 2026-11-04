@@ -16,3 +16,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 20 | Valid Parentheses | Easy | [0020-valid-parentheses](0020-valid-parentheses) |
 | 21 | Merge Two Sorted Lists | Easy | [0021-merge-two-sorted-lists](0021-merge-two-sorted-lists) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [0026-remove-duplicates-from-sorted-array](0026-remove-duplicates-from-sorted-array) |
+| 27 | Remove Element | Easy | [0027-remove-element](0027-remove-element) |
