@@ -17,3 +17,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 21 | Merge Two Sorted Lists | Easy | [0021-merge-two-sorted-lists](0021-merge-two-sorted-lists) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [0026-remove-duplicates-from-sorted-array](0026-remove-duplicates-from-sorted-array) |
 | 27 | Remove Element | Easy | [0027-remove-element](0027-remove-element) |
+| 35 | Search Insert Position | Easy | [0035-search-insert-position](0035-search-insert-position) |

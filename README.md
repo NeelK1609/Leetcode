@@ -19,3 +19,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 21 | Merge Two Sorted Lists | Easy | Dummy node, merge in one pass — O(m + n) | [python/0021-merge-two-sorted-lists](python/0021-merge-two-sorted-lists) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Two pointers, in-place — O(n) | [python/0026-remove-duplicates-from-sorted-array](python/0026-remove-duplicates-from-sorted-array) |
 | 27 | Remove Element | Easy | Two-pointer in-place overwrite — O(n) | [python/0027-remove-element](python/0027-remove-element) |
+| 35 | Search Insert Position | Easy | Binary search, return lo as insertion point — O(log n) | [python/0035-search-insert-position](python/0035-search-insert-position) |
