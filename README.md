@@ -21,3 +21,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 27 | Remove Element | Easy | Two-pointer in-place overwrite — O(n) | [python/0027-remove-element](python/0027-remove-element) |
 | 35 | Search Insert Position | Easy | Binary search, return lo as insertion point — O(log n) | [python/0035-search-insert-position](python/0035-search-insert-position) |
 | 53 | Maximum Subarray | Medium | Kadane's algorithm, one pass — O(n) | [python/0053-maximum-subarray](python/0053-maximum-subarray) |
+| 58 | Length of Last Word | Easy | Scan from the end, skip trailing spaces — O(n) | [python/0058-length-of-last-word](python/0058-length-of-last-word) |
