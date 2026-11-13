@@ -18,3 +18,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 26 | Remove Duplicates from Sorted Array | Easy | [0026-remove-duplicates-from-sorted-array](0026-remove-duplicates-from-sorted-array) |
 | 27 | Remove Element | Easy | [0027-remove-element](0027-remove-element) |
 | 35 | Search Insert Position | Easy | [0035-search-insert-position](0035-search-insert-position) |
+| 53 | Maximum Subarray | Medium | [0053-maximum-subarray](0053-maximum-subarray) |
