@@ -20,3 +20,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 35 | Search Insert Position | Easy | [0035-search-insert-position](0035-search-insert-position) |
 | 53 | Maximum Subarray | Medium | [0053-maximum-subarray](0053-maximum-subarray) |
 | 58 | Length of Last Word | Easy | [0058-length-of-last-word](0058-length-of-last-word) |
+| 66 | Plus One | Easy | [0066-plus-one](0066-plus-one) |
