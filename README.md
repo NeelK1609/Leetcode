@@ -23,3 +23,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 53 | Maximum Subarray | Medium | Kadane's algorithm, one pass — O(n) | [python/0053-maximum-subarray](python/0053-maximum-subarray) |
 | 58 | Length of Last Word | Easy | Scan from the end, skip trailing spaces — O(n) | [python/0058-length-of-last-word](python/0058-length-of-last-word) |
 | 66 | Plus One | Easy | Add one from the right, carry 9s — O(n) | [python/0066-plus-one](python/0066-plus-one) |
+| 70 | Climbing Stairs | Easy | Fibonacci recurrence, two variables — O(n) | [python/0070-climbing-stairs](python/0070-climbing-stairs) |
