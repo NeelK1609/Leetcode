@@ -23,3 +23,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 66 | Plus One | Easy | [0066-plus-one](0066-plus-one) |
 | 70 | Climbing Stairs | Easy | [0070-climbing-stairs](0070-climbing-stairs) |
 | 83 | Remove Duplicates from Sorted List | Easy | [0083-remove-duplicates-from-sorted-list](0083-remove-duplicates-from-sorted-list) |
+| 88 | Merge Sorted Array | Easy | [0088-merge-sorted-array](0088-merge-sorted-array) |

@@ -25,3 +25,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 66 | Plus One | Easy | Add one from the right, carry 9s — O(n) | [python/0066-plus-one](python/0066-plus-one) |
 | 70 | Climbing Stairs | Easy | Fibonacci recurrence, two variables — O(n) | [python/0070-climbing-stairs](python/0070-climbing-stairs) |
 | 83 | Remove Duplicates from Sorted List | Easy | Skip duplicate neighbours in one pass — O(n) | [python/0083-remove-duplicates-from-sorted-list](python/0083-remove-duplicates-from-sorted-list) |
+| 88 | Merge Sorted Array | Easy | Merge from the back, in place — O(m + n) | [python/0088-merge-sorted-array](python/0088-merge-sorted-array) |
