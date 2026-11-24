@@ -25,3 +25,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 83 | Remove Duplicates from Sorted List | Easy | [0083-remove-duplicates-from-sorted-list](0083-remove-duplicates-from-sorted-list) |
 | 88 | Merge Sorted Array | Easy | [0088-merge-sorted-array](0088-merge-sorted-array) |
 | 94 | Binary Tree Inorder Traversal | Easy | [0094-binary-tree-inorder-traversal](0094-binary-tree-inorder-traversal) |
+| 100 | Same Tree | Easy | [0100-same-tree](0100-same-tree) |
