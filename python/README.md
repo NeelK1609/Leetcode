@@ -26,3 +26,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 88 | Merge Sorted Array | Easy | [0088-merge-sorted-array](0088-merge-sorted-array) |
 | 94 | Binary Tree Inorder Traversal | Easy | [0094-binary-tree-inorder-traversal](0094-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | [0100-same-tree](0100-same-tree) |
+| 104 | Maximum Depth of Binary Tree | Easy | [0104-maximum-depth-of-binary-tree](0104-maximum-depth-of-binary-tree) |

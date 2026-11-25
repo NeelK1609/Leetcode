@@ -28,3 +28,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 88 | Merge Sorted Array | Easy | Merge from the back, in place — O(m + n) | [python/0088-merge-sorted-array](python/0088-merge-sorted-array) |
 | 94 | Binary Tree Inorder Traversal | Easy | Iterative stack, left-root-right — O(n) | [python/0094-binary-tree-inorder-traversal](python/0094-binary-tree-inorder-traversal) |
 | 100 | Same Tree | Easy | Recursive structural comparison — O(n) | [python/0100-same-tree](python/0100-same-tree) |
+| 104 | Maximum Depth of Binary Tree | Easy | Recursive DFS, 1 + max(left, right) — O(n) | [python/0104-maximum-depth-of-binary-tree](python/0104-maximum-depth-of-binary-tree) |
