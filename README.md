@@ -30,3 +30,4 @@ Daily coding practice — one LeetCode problem (or a real code change) every day
 | 100 | Same Tree | Easy | Recursive structural comparison — O(n) | [python/0100-same-tree](python/0100-same-tree) |
 | 104 | Maximum Depth of Binary Tree | Easy | Recursive DFS, 1 + max(left, right) — O(n) | [python/0104-maximum-depth-of-binary-tree](python/0104-maximum-depth-of-binary-tree) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Track lowest price, best profit in one pass — O(n) | [python/0121-best-time-to-buy-and-sell-stock](python/0121-best-time-to-buy-and-sell-stock) |
+| 125 | Valid Palindrome | Easy | Two pointers, skip non-alphanumerics — O(n) | [python/0125-valid-palindrome](python/0125-valid-palindrome) |

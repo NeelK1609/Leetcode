@@ -28,3 +28,4 @@ Daily LeetCode practice in Python 3. One folder per problem:
 | 100 | Same Tree | Easy | [0100-same-tree](0100-same-tree) |
 | 104 | Maximum Depth of Binary Tree | Easy | [0104-maximum-depth-of-binary-tree](0104-maximum-depth-of-binary-tree) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [0121-best-time-to-buy-and-sell-stock](0121-best-time-to-buy-and-sell-stock) |
+| 125 | Valid Palindrome | Easy | [0125-valid-palindrome](0125-valid-palindrome) |
